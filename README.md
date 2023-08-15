@@ -5,6 +5,7 @@
 
 **Published: Aug 16, 2023**
 
+
 **Introduction:**
 Prepare to embark on an epic journey of cybersecurity exploration through this expansive write-up. Tailored meticulously for beginners, this walkthrough will guide you step by step through the labyrinthine "Keeper" challenge on HackTheBox. With in-depth explanations, tool usage, and strategic insights, you'll unravel the secrets of gaining initial access, mastering user privilege escalation, and ascending to the pinnacle of root privilege.
 
